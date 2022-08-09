@@ -1,0 +1,14 @@
+/Users/claycoleman/Projects/ExtraOperators/ExtraOperators/bin/Debug/netcoreapp3.1/ExtraOperators
+/Users/claycoleman/Projects/ExtraOperators/ExtraOperators/bin/Debug/netcoreapp3.1/ExtraOperators.deps.json
+/Users/claycoleman/Projects/ExtraOperators/ExtraOperators/bin/Debug/netcoreapp3.1/ExtraOperators.runtimeconfig.json
+/Users/claycoleman/Projects/ExtraOperators/ExtraOperators/bin/Debug/netcoreapp3.1/ExtraOperators.runtimeconfig.dev.json
+/Users/claycoleman/Projects/ExtraOperators/ExtraOperators/bin/Debug/netcoreapp3.1/ExtraOperators.dll
+/Users/claycoleman/Projects/ExtraOperators/ExtraOperators/bin/Debug/netcoreapp3.1/ExtraOperators.pdb
+/Users/claycoleman/Projects/ExtraOperators/ExtraOperators/obj/Debug/netcoreapp3.1/ExtraOperators.csproj.AssemblyReference.cache
+/Users/claycoleman/Projects/ExtraOperators/ExtraOperators/obj/Debug/netcoreapp3.1/ExtraOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claycoleman/Projects/ExtraOperators/ExtraOperators/obj/Debug/netcoreapp3.1/ExtraOperators.AssemblyInfoInputs.cache
+/Users/claycoleman/Projects/ExtraOperators/ExtraOperators/obj/Debug/netcoreapp3.1/ExtraOperators.AssemblyInfo.cs
+/Users/claycoleman/Projects/ExtraOperators/ExtraOperators/obj/Debug/netcoreapp3.1/ExtraOperators.csproj.CoreCompileInputs.cache
+/Users/claycoleman/Projects/ExtraOperators/ExtraOperators/obj/Debug/netcoreapp3.1/ExtraOperators.dll
+/Users/claycoleman/Projects/ExtraOperators/ExtraOperators/obj/Debug/netcoreapp3.1/ExtraOperators.pdb
+/Users/claycoleman/Projects/ExtraOperators/ExtraOperators/obj/Debug/netcoreapp3.1/ExtraOperators.genruntimeconfig.cache
